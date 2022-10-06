@@ -7,7 +7,7 @@
 
 - 👯 Chciałbym pracować z [doświadczonymi programistami.](https://websitecoding.pl/contact/index.html)
 
-- 👨‍💻 Wszystkie moje projekty znajdują się pod tym linkiem [https://websitecoding.pl/portfolio/index.html](https://websitecoding.pl/portfolio/index.html)
+- 👨‍💻 Wszystkie moje projekty znajdują się tutaj [https://websitecoding.pl/portfolio/index.html](https://websitecoding.pl/portfolio/index.html)
 
 - 💬 Potrafię **HTML, CSS, Sass, JavaScript, Bootstrap, Webpack, Npm, Git, Yarn**
 
